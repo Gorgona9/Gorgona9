@@ -48,6 +48,9 @@
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-vue-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-5-pack-icons-282497.png?f=webp&w=256" alt="VueJs" width="40" height="40"/> 
     </a> 
+    <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://seeklogo.com/images/N/nuxt-logo-5EF50E1ABD-seeklogo.com.png" alt="Nuxt" width="40" height="40"/> 
+    </a> 
     <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="40" height="40"/> 
     </a> 
@@ -118,4 +121,3 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gorgona9&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gorgona9&theme=2077" height="180em" />
 </div>
-
